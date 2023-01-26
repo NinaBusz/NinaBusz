@@ -2,7 +2,7 @@
 
 ### Nice to meet you! 
 My name is **Nina** and I am new on GitHub. 
-- Newbie Web Developer: I am making my first steps with the help of [neuefische]([https://neuefische.de](https://www.neuefische.de/partner)) :fish:
+- Newbie Web Developer: I am making my first steps with the help of [neuefische][https://neuefische.de](https://www.neuefische.de) :fish:
 - Based in Germany / Schleswig-Holstein / close to Hamburg
 
 
